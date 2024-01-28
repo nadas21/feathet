@@ -1,6 +1,6 @@
 
 import logo from "../../img/logo.png";
-import savat from "../../img/savat.png"
+import savat from "../../img/Savat.png"
 import "./main.css"
 
 
