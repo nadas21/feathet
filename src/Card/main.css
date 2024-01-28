@@ -1,0 +1,42 @@
+
+.card-box {
+    display: flex;
+    margin-top: 94px;
+}
+.card-title {
+    margin-top: 111px;
+}
+.card-h3 {
+    color: #000;
+font-family: Roboto;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: 44px; /* 122.222% */
+}
+.card-p {
+    color: #000;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 155.556% */
+margin-top: 20px;
+}
+.card-h4 {
+    color: #E9672B;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 155.556% */
+    margin-top: 33px;
+}
+.card-text-h4{
+    color: #000;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 155.556% */
+}

@@ -1,0 +1,32 @@
+
+.section-h2 {
+    color: #000;
+font-family: Roboto;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: 54px; /* 112.5% */
+margin-left: 481px;
+margin-top: 155px;
+}
+.section-item-card{
+    display: flex;
+margin-top: 43px;
+    
+}
+.section-card {
+   margin-left: 36px;
+   border-radius: 4px;
+border: 2px solid #E9672B;
+background: #FFF;
+box-shadow: 8px 8px 0px 0px #CBC6F4;
+}
+.section-h3 {
+    color: #000;
+text-align: center;
+font-family: Roboto;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 164.706% */
+}

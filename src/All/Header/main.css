@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.header-innner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 31px;
+}
+.header-nav {
+    display: flex;
+    align-items: center;
+}
+.nav-item-link {
+    list-style-type: none;
+    margin-left: 36px;
+}
+.nav-item-link :nth-child(1) {
+    list-style-type: none;
+    margin-left: 0px;
+    
+}
+.nav-link {
+    text-decoration: none;
+    color: #000;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 125% */
+}
+.header-nav-savat{
+    margin-left: 40px;
+}

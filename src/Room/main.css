@@ -1,0 +1,24 @@
+.room-inner {
+    background: #F6CFCA;
+    margin-top: 215px;
+}
+.room-text {
+    color: #000;
+text-align: center;
+font-family: Roboto;
+font-size: 88px;
+font-style: normal;
+font-weight: 400;
+line-height: 100px; /* 113.636% */
+margin-top: 39px;
+width: 913px;
+margin-left: 196px;
+}
+.room-link {
+    display: flex;
+    align-items: center;
+}
+.room-list-link {
+    margin-left: 94px;
+    margin-top: 47px;
+}

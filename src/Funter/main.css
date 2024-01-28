@@ -1,0 +1,31 @@
+.funter-inner {
+}
+.funter-p {
+    color: #000;
+text-align: center;
+font-family: Roboto;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 133.333% */
+width: 292px;
+margin-left: 408px
+}
+.funter-btn {
+    color: #000;
+text-align: center;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 155.556% */
+border-radius: 88px;
+background: #E9672B;
+padding: 16px 40px;
+margin-left: 458px;
+margin-top: 55px;
+}
+.funter-qiz{
+    margin-left: 408px;
+    margin-top: 120px;
+}
